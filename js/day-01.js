@@ -1,3 +1,5 @@
+// Console Commands
+
 console.log("Welcome");
 console.error("Hai I am a Temporary Error");
 console.warn("Hai I am a Warning");
